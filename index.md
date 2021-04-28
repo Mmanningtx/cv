@@ -1,2 +1,1 @@
-index.HTML
-contact.HTML
+[[index.HTML]]
